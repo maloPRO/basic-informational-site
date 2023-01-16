@@ -1,0 +1,20 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "An Odin project Node Js curriculum project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maloPRO/basic-informational-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maloPRO/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/maloPRO/basic-informational-site#readme"
+}
