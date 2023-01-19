@@ -8,7 +8,7 @@ const server = http.createServer((req, res) => {
     "public",
     req.url === "/" ? "index.html" : path.basename(req.url) + ".html"
   );
-  console.log(req.url);
+
   let extName = path.extname(filePath);
   let contentType = "text/html";
 
